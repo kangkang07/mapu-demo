@@ -15,5 +15,7 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### mapu 安装：
+将 map-u 的git 仓库克隆到  lib 下面
+
+
